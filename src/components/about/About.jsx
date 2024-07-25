@@ -43,7 +43,7 @@ const About = () => {
             </article>
           </div>
 
-          <p>Currently persuing my btech final and, I got to know about programming languages in my high school where i fell for it and started learing Javascript and now having good knowlage in full stack developement.</p>
+          <p>As a Web Developer with around 1 year of hands-on experience, I am proficient in Javascript, WordPress, HTML, and CSS to create visually appealing and responsive web interfaces. I specialize in React.js, utilizing its component-based architecture to build dynamic user interfaces. My expertise extends to Node.js, enabling me to work on server-side logic and API development. I am well-versed in integrating APIs and connecting to NoSQL databases like MongoDB to manage and retrieve data efficiently. My passion for clean code and dedication to staying updated with industry trends make me a valuable asset to web development projects.</p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>

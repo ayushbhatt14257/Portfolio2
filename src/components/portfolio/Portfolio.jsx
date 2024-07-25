@@ -6,14 +6,26 @@ import IMG2 from '../../assests/project2.png'
 import IMG3 from '../../assests/project3.png'
 import IMG4 from '../../assests/project4.png'
 import IMG5 from '../../assests/project5.png'
+import IMG6 from '../../assests/projet.png'
 
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5>My Recent Work</h5>
+      <h5>My Personal Recent Work</h5>
       <h2>Portfolio</h2>
 
       <div className="container portfolio_container">
+      <article className='portfolio_item'>
+          <div className="portfolio_item-item">
+            <img src={IMG6} alt="project" />
+          </div>
+          <h3>Create a user dashboard for students to display the courses they are enrolled in and their details using React</h3>
+          <div className="portfolio_item-cta">
+            <a href="https://github.com/ayushbhatt14257/course" className='btn' target='_new'>Github</a>
+            <a href="https://mycourse-m81y.onrender.com/" className='btn btn-primary' target='_new'>Live Demo</a>
+          </div>
+        </article>
+
         <article className='portfolio_item'>
           <div className="portfolio_item-item">
             <img src={IMG} alt="project" />

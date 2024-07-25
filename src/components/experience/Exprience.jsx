@@ -47,6 +47,13 @@ const Exprience = () => {
               <small className='text-light'>Experienced</small>
               </div>
             </article>
+            <article className= 'experience_details'>
+              <BsFillPatchCheckFill className = 'experience_detail-icon'/>
+              <div>
+              <h4>WordPress</h4>
+              <small className='text-light'>Experienced</small>
+              </div>
+            </article>
           </div>
         </div>
 

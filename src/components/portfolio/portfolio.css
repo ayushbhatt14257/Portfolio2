@@ -32,7 +32,9 @@
     margin-bottom: 1rem;
 }
 
-
+.new{
+    height: 50vh;
+}
 /* ============================ Media Queary (medium ===================== */
 
 @media screen and (max-width: 1024px) {
